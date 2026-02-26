@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Waqas Ahmad Portfolio</title>
+</head>
+<body>
+    <h1>Waqas Ahmad</h1>
+    <p>BBA Marketing Student | Amazon VA | Sales Intern</p>
+
+    <h2>About Me</h2>
+    <p>I am building my career in digital marketing, sales, and eCommerce.</p>
+
+    <h2>Skills</h2>
+    <ul>
+        <li>Amazon PPC Support</li>
+        <li>SEO Optimization</li>
+        <li>Lead Generation</li>
+        <li>Video Editing</li>
+    </ul>
+
+    <h2>Contact</h2>
+    <p>Email: your@email.com</p>
+</body>
+</html>
